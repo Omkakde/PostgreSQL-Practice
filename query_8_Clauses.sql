@@ -20,6 +20,6 @@
 
 
 
-select DISTINCT citys from person
+-- select DISTINCT citys from person
 
 
